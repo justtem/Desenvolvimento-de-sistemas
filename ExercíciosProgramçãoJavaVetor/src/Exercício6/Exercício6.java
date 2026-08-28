@@ -1,0 +1,14 @@
+package Exercício6;
+
+import java.util.Scanner;
+
+public class Exercício6 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		
+
+	}
+
+}
